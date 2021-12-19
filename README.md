@@ -1,14 +1,14 @@
 # Run-Buddy
 
-##Purpose
+## Purpose
 A website that offers fitness training services.
 
-#Built With
+## Built With
 *HTML
 *CSS
 
-##Website
+## Website
 https://acampbell8610.github.io/run-buddy/
 
-##Contribution
+## Contribution
 Made with ❤️ by Alex Campbell
