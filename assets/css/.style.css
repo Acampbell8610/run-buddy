@@ -489,5 +489,4 @@ footer a{
 }
 .checkbox-wrapper input:checked + label::after,
 .radio-wrapper input:checked + label::after{
-    content: "";
-    
+    content: "";}
